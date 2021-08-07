@@ -1,5 +1,4 @@
 # Backdoor-PHP8.1.0
-### POC from RCE backdoor in PHP 8.1.0
 
 # Identifying the php version:
 ![php8](https://user-images.githubusercontent.com/77762068/128594577-061d2b90-d580-4785-9216-329c0381864a.png)
